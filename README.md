@@ -1,2 +1,2 @@
 # E-commerce-insights
-Analyzing an e-commerce online and offline activity 
+Udemy course: Analyzing an e-commerce online and offline activity to predict customer lifetime value based of web/mobile, session length, length of membership...
